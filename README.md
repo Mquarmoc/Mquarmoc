@@ -4,7 +4,16 @@ I build tools and frameworks for AI agents, reinforcement learning, and trading 
 
 ---
 
-## 🚀 Products
+## 🎁 Free Resources (Lead Magnets)
+
+| Resource | Description | Format |
+|----------|-------------|--------|
+| [**AI Prompt Pack Lite**](https://rookclaw8.gumroad.com/l/prompts-lite) | 10 high-performance prompts for developer productivity | JSON/PDF |
+| [**Agentic System Checklist**](https://github.com/Mquarmoc/Mquarmoc/blob/main/CHECKLIST.md) | 20-point checklist for building autonomous systems | Markdown |
+
+---
+
+## 🚀 Pro Products
 
 | Product | Description | Price |
 |---------|-------------|-------|
@@ -15,7 +24,7 @@ I build tools and frameworks for AI agents, reinforcement learning, and trading 
 | [**A2A OpenClaw Distillate**](https://buy.stripe.com/test_7sI4gS0vWaLff5L4ns) | OpenClaw framework documentation & summaries | €29 |
 | [**AI Project Scaffolding**](https://buy.stripe.com/test_dR64gS0vWbPj28d15C) | Project templates for AI/ML development | €25 |
 | [**AI Automation Templates**](https://buy.stripe.com/test_8wM28q5Ri2iXeTH6qX) | Ready-to-use automation workflows | €15 |
-| [**AI Prompt Pack**](https://rookclaw8.gumroad.com/l/sgdgn) | Curated prompts for development tasks | €12 |
+| [**AI Prompt Pack (Full)**](https://rookclaw8.gumroad.com/l/sgdgn) | 55+ curated prompts for development tasks | €12 |
 
 [**→ Browse full store**](https://rookclaw8.gumroad.com)
 
